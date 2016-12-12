@@ -1,4 +1,4 @@
-# JOUR491 Algorithms-For-Journalism
+# JOUR491 Algorithms For Journalism
 
 **Spring 2017**  
 **T/Th 10:00 a.m. - 11:15 a.m.**  
