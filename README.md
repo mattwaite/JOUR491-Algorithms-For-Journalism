@@ -4,11 +4,11 @@
 **T/Th 10:00 a.m. - 11:15 a.m.**  
 **XXX Andersen Hall**  
 
-Matt Waite, instructor
-Email: matt.waite@unl.edu   
-Twitter: @mattwaite   
-Phones: (402) 802-5202 cell, (402) 472-5840 office   
-Office: 244 Andersen   
+**Instructor:** Matt Waite  
+**Email:** matt.waite@unl.edu   
+**Twitter:** @mattwaite   
+**Phones:** (402) 802-5202 cell, (402) 472-5840 office   
+**Office:** 244 Andersen   
 
 **Course description:**
 
