@@ -1,6 +1,6 @@
 import os
 
-link = "http://www.omaha.com/news/metro/police-officer-tells-omaha-couple-to-run-after-attack-on/article_3a1a457e-0f36-11e7-b1e6-0faa143160f8.html"
+link = "http://journalstar.com/sports/huskers/mens-basketball/morrow-says-decision-to-transfer-from-nu-is-sacrifice-i/article_be9e1192-b890-56d1-a0d1-4d26b83099f7.html"
 
 summarizers = ["lex-rank", "luhn", "edmundson", "lsa", "text-rank", "sum-basic", "kl"]
 
